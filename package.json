@@ -1,0 +1,6 @@
+{
+  "name": "tremly-demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Tremly interactive demo: static page plus one serverless function"
+}
